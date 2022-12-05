@@ -28,7 +28,7 @@
   "dependencies": {
     "admin-lte": "^3.1.0",
     "parsleyjs": "^2.9.2",
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.1058.0"
   },
   "snyk": true
 }
